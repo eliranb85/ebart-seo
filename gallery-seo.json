@@ -1,0 +1,50 @@
+{
+  "page": "gallery",
+  "meta": {
+    "title": "Eliran Bar-On's Artwork Gallery - Contemporary Portrait Art",
+    "description": "Explore a stunning collection of contemporary portrait art by Eliran Bar-On, combining classical techniques with modern vision. Featuring 43 artworks across 2 categories.",
+    "keywords": [
+      "Eliran Bar-On",
+      "art gallery",
+      "contemporary portrait art",
+      "oil on canvas",
+      "modern portraits"
+    ]
+  },
+  "openGraph": {
+    "og:title": "Eliran Bar-On's Artwork Gallery - Contemporary Portrait Art",
+    "og:description": "Discover 43 captivating artworks by Eliran Bar-On, showcasing a fusion of classical techniques and modern artistic vision.",
+    "og:image": "https://ebartocp.com/assets/gallery-cover.jpg",
+    "og:url": "https://ebartocp.com/gallery/",
+    "og:type": "website"
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Eliran Bar-On's Artwork Gallery",
+    "description": "A collection of 43 contemporary portrait artworks by Eliran Bar-On, categorized into 2 distinct groups.",
+    "url": "https://ebartocp.com/gallery/",
+    "hasPart": [
+      {
+        "@type": "CreativeWork",
+        "name": "Assi Dayan",
+        "creator": {
+          "@type": "Person",
+          "name": "Eliran Bar-On"
+        },
+        "image": "https://ebartocp.com/path-to-assi-dayan-image.jpg",
+        "url": "https://ebartocp.com/gallery/assi-dayan"
+      },
+      {
+        "@type": "CreativeWork",
+        "name": "770: Portrait of the Rebbe in Red",
+        "creator": {
+          "@type": "Person",
+          "name": "Eliran Bar-On"
+        },
+        "image": "https://ebartocp.com/path-to-770-portrait-image.jpg",
+        "url": "https://ebartocp.com/gallery/770-portrait"
+      }
+    ]
+  }
+}

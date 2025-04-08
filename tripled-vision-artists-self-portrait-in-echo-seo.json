@@ -1,0 +1,35 @@
+{
+  "page": "tripled-vision-artists-self-portrait-in-echo",
+  "meta": {
+    "title": "Tripled Vision: Artist's Self-Portrait in Echo by Eliran Bar-On",
+    "description": "An intriguing self-portrait presenting the artist in a triple composition, exploring themes of identity and self-perception.",
+    "keywords": [
+      "Eliran Bar-On",
+      "self-portrait",
+      "oil painting",
+      "contemporary art",
+      "identity"
+    ]
+  },
+  "openGraph": {
+    "og:title": "Tripled Vision: Artist's Self-Portrait in Echo by Eliran Bar-On",
+    "og:description": "Explore Eliran Bar-On's self-portrait 'Tripled Vision', presenting the artist in a unique triple composition, delving into themes of identity.",
+    "og:image": "https://ebartocp.com/path-to-tripled-vision-image.jpg",
+    "og:url": "https://ebartocp.com/artwork/tripled-vision-artists-self-portrait-in-echo/",
+    "og:type": "article"
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "VisualArtwork",
+    "name": "Tripled Vision: Artist's Self-Portrait in Echo",
+    "creator": {
+      "@type": "Person",
+      "name": "Eliran Bar-On"
+    },
+    "image": "https://ebartocp.com/path-to-tripled-vision-image.jpg",
+    "description": "This self-portrait presents the artist in a triple composition, with a central detailed face flanked by two identical silhouettes, exploring themes of identity and self-perception.",
+    "artMedium": "Oil on canvas",
+    "artform": "Painting",
+    "url": "https://ebartocp.com/artwork/tripled-vision-artists-self-portrait-in-echo/"
+  }
+}

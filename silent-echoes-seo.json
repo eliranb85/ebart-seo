@@ -1,0 +1,45 @@
+{
+  "page": "silent-echoes",
+  "meta": {
+    "title": "Silent Echoes – A Painting Inspired by the Events of October 7th",
+    "description": "An emotional oil painting by Eliran Bar-On capturing the haunting stillness of a rural Israeli landscape after the tragic events of October 7th.",
+    "keywords": [
+      "Eliran Bar-On",
+      "Silent Echoes",
+      "oil painting",
+      "Israeli landscape",
+      "October 7th"
+    ]
+  },
+  "openGraph": {
+    "og:title": "Silent Echoes – A Painting Inspired by the Events of October 7th",
+    "og:description": "Discover Eliran Bar-On's poignant oil painting depicting the aftermath of October 7th in a rural Israeli landscape.",
+    "og:image": "https://ebartocp.com/path-to-silent-echoes-image.jpg",
+    "og:url": "https://ebartocp.com/artwork/silent-echoes-a-painting-inspired-by-the-events-of-october-7th/",
+    "og:type": "article"
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "VisualArtwork",
+    "name": "Silent Echoes – A Painting Inspired by the Events of October 7th",
+    "creator": {
+      "@type": "Person",
+      "name": "Eliran Bar-On"
+    },
+    "image": "https://ebartocp.com/path-to-silent-echoes-image.jpg",
+    "description": "This deeply emotional oil painting captures the haunting stillness of a rural Israeli landscape in the aftermath of the tragic events of October 7th. The warm glow of the setting sun contrasts with the broken, abandoned house, symbolizing both loss and resilience.",
+    "artMedium": "Oil on canvas",
+    "artform": "Painting",
+    "url": "https://ebartocp.com/artwork/silent-echoes-a-painting-inspired-by-the-events-of-october-7th/",
+    "offers": {
+      "@type": "Offer",
+      "price": "800",
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Person",
+        "name": "Eliran Bar-On"
+      }
+    }
+  }
+}

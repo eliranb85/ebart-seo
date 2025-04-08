@@ -1,0 +1,47 @@
+{
+  "page": "770-portrait-of-the-rebbe-in-red",
+  "meta": {
+    "title": "770: Portrait of the Rebbe in Red by Eliran Bar-On",
+    "description": "A contemporary oil painting depicting the Lubavitcher Rebbe against a bold red background, symbolizing the Chabad headquarters.",
+    "keywords": [
+      "Eliran Bar-On",
+      "Lubavitcher Rebbe",
+      "770",
+      "oil painting",
+      "Jewish art"
+    ]
+  },
+  "openGraph": {
+    "og:title": "770: Portrait of the Rebbe in Red by Eliran Bar-On",
+    "og:description": "Discover Eliran Bar-On's contemporary portrait of the Lubavitcher Rebbe, set against a bold red background with symbolic '770'.",
+    "og:image": "https://ebartocp.com/path-to-770-portrait-image.jpg",
+    "og:url": "https://ebartocp.com/artwork/770-portrait-of-the-rebbe-in-red/",
+    "og:type": "article"
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "VisualArtwork",
+    "name": "770: Portrait of the Rebbe in Red",
+    "creator": {
+      "@type": "Person",
+      "name": "Eliran Bar-On"
+    },
+    "image": "https://ebartocp.com/path-to-770-portrait-image.jpg",
+    "description": "This striking portrait depicts the Lubavitcher Rebbe against a bold red background, featuring the symbolic number '770', representing the Chabad headquarters.",
+    "artMedium": "Oil on canvas",
+    "artform": "Painting",
+    "width": "100 cm",
+    "height": "70 cm",
+    "url": "https://ebartocp.com/artwork/770-portrait-of-the-rebbe-in-red/",
+    "offers": {
+      "@type": "Offer",
+      "price": "770",
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Person",
+        "name": "Eliran Bar-On"
+      }
+    }
+  }
+}

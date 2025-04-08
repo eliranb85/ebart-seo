@@ -1,0 +1,35 @@
+{
+  "page": "duality-portrait-in-fracture-and-harmony",
+  "meta": {
+    "title": "Duality: Portrait in Fracture and Harmony by Eliran Bar-On",
+    "description": "This oil painting explores human duality, depicting the same face twice with subtle differences to convey emotional contrast.",
+    "keywords": [
+      "Eliran Bar-On",
+      "duality",
+      "portrait",
+      "oil painting",
+      "emotional art"
+    ]
+  },
+  "openGraph": {
+    "og:title": "Duality: Portrait in Fracture and Harmony by Eliran Bar-On",
+    "og:description": "Eliran Bar-On’s portrait ‘Duality’ presents the same face twice with emotional contrasts, revealing the complexity of human nature.",
+    "og:image": "https://ebartocp.com/path-to-duality-image.jpg",
+    "og:url": "https://ebartocp.com/artwork/duality-portrait-in-fracture-and-harmony/",
+    "og:type": "article"
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "VisualArtwork",
+    "name": "Duality: Portrait in Fracture and Harmony",
+    "creator": {
+      "@type": "Person",
+      "name": "Eliran Bar-On"
+    },
+    "image": "https://ebartocp.com/path-to-duality-image.jpg",
+    "description": "This oil painting explores the concept of human duality, showing the same face from two angles and expressing contrasting emotions.",
+    "artMedium": "Oil on canvas",
+    "artform": "Painting",
+    "url": "https://ebartocp.com/artwork/duality-portrait-in-fracture-and-harmony/"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "page": "assi-dayan",
+  "meta": {
+    "title": "Assi Dayan - Portrait by Eliran Bar-On",
+    "description": "An expressive oil painting capturing Israeli cultural icon Assi Dayan in a contemplative moment, inspired by Miri Mesika’s song.",
+    "keywords": [
+      "Eliran Bar-On",
+      "Assi Dayan",
+      "oil painting",
+      "Israeli art",
+      "contemporary portrait"
+    ]
+  },
+  "openGraph": {
+    "og:title": "Assi Dayan - Portrait by Eliran Bar-On",
+    "og:description": "Explore Eliran Bar-On's expressive portrait of Assi Dayan, capturing the Israeli cultural icon in a contemplative moment.",
+    "og:image": "https://ebartocp.com/path-to-assi-dayan-image.jpg",
+    "og:url": "https://ebartocp.com/artwork/assi-dayan/",
+    "og:type": "article"
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "VisualArtwork",
+    "name": "Assi Dayan",
+    "creator": {
+      "@type": "Person",
+      "name": "Eliran Bar-On"
+    },
+    "image": "https://ebartocp.com/path-to-assi-dayan-image.jpg",
+    "description": "An expressive portrait capturing Israeli cultural icon Assi Dayan in a contemplative moment, inspired by Miri Mesika’s song. The painting employs geometric planes of color creating a mosaic-like effect.",
+    "artMedium": "Oil on canvas",
+    "artform": "Painting",
+    "width": "100 cm",
+    "height": "70 cm",
+    "url": "https://ebartocp.com/artwork/assi-dayan/",
+    "offers": {
+      "@type": "Offer",
+      "price": "800",
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Person",
+        "name": "Eliran Bar-On"
+      }
+    }
+  }
+}

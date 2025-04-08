@@ -1,0 +1,35 @@
+{
+  "page": "colorful-row-victorian-houses-in-urban-harmony",
+  "meta": {
+    "title": "Colorful Row – Victorian Houses in Urban Harmony by Eliran Bar-On",
+    "description": "An expressive urban scene of colorful Victorian-style houses by Eliran Bar-On, symbolizing individuality within community.",
+    "keywords": [
+      "Eliran Bar-On",
+      "Victorian houses",
+      "urban art",
+      "oil painting",
+      "colorful architecture"
+    ]
+  },
+  "openGraph": {
+    "og:title": "Colorful Row – Victorian Houses in Urban Harmony by Eliran Bar-On",
+    "og:description": "Explore the charm of urban life with Eliran Bar-On’s painting of a vibrant row of Victorian-style houses, celebrating harmony in diversity.",
+    "og:image": "https://ebartocp.com/path-to-colorful-row-image.jpg",
+    "og:url": "https://ebartocp.com/artwork/colorful-row-victorian-houses-in-urban-harmony/",
+    "og:type": "article"
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "VisualArtwork",
+    "name": "Colorful Row – Victorian Houses in Urban Harmony",
+    "creator": {
+      "@type": "Person",
+      "name": "Eliran Bar-On"
+    },
+    "image": "https://ebartocp.com/path-to-colorful-row-image.jpg",
+    "description": "This painting features a vivid row of Victorian-style houses, each with unique colors and design, representing individuality within urban community.",
+    "artMedium": "Oil on canvas",
+    "artform": "Painting",
+    "url": "https://ebartocp.com/artwork/colorful-row-victorian-houses-in-urban-harmony/"
+  }
+}
