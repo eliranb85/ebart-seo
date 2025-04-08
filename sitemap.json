@@ -1,0 +1,22 @@
+{
+  "sitemap": [
+    {
+      "loc": "https://ebartocp.com/",
+      "lastmod": "2025-04-08",
+      "changefreq": "weekly",
+      "priority": 1.0
+    },
+    {
+      "loc": "https://ebartocp.com/gallery",
+      "lastmod": "2025-04-08",
+      "changefreq": "weekly",
+      "priority": 0.8
+    },
+    {
+      "loc": "https://ebartocp.com/about",
+      "lastmod": "2025-04-08",
+      "changefreq": "monthly",
+      "priority": 0.6
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Eliran Bar On",
+  "url": "https://ebartocp.com/",
+  "image": "https://ebartocp.com/assets/artist-portrait.jpg",
+  "sameAs": [
+    "https://www.instagram.com/eliranbartist",
+    "https://www.pinterest.com/eliranbartist"
+  ],
+  "jobTitle": "Contemporary Oil Painter",
+  "description": "Eliran Bar On is a contemporary oil painter from Israel, known for expressive large-scale canvases.",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Eliran Bar On Studio"
+  }
+}

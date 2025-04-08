@@ -1,0 +1,16 @@
+{
+  "home": {
+    "og:title": "Eliran Bar On - Contemporary Israeli Painter",
+    "og:description": "Dive into emotional, vibrant oil paintings by Eliran Bar On.",
+    "og:image": "https://ebartocp.com/assets/painting-highlight.jpg",
+    "og:url": "https://ebartocp.com/",
+    "og:type": "website"
+  },
+  "gallery": {
+    "og:title": "Gallery - Original Oil Paintings by Eliran Bar On",
+    "og:description": "Browse and experience the art. Paintings available for rent or sale.",
+    "og:image": "https://ebartocp.com/assets/gallery-cover.jpg",
+    "og:url": "https://ebartocp.com/gallery",
+    "og:type": "website"
+  }
+}
