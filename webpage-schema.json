@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Split",
+  "url": "https://ebartocp.com/split.html",
+  "description": "This isn't a painting. It\u2019s the exact moment something split open inside.",
+  "inLanguage": "en",
+  "datePublished": "2025-04-07",
+  "isPartOf": {
+    "@type": "WebSite",
+    "url": "https://ebartocp.com"
+  },
+  "mainEntity": {
+    "@type": "CreativeWork",
+    "name": "Fragments Series"
+  }
+}

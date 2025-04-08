@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "EB Art Studio",
+  "url": "https://ebartocp.com",
+  "logo": "https://ebartocp.com/images/logo.png",
+  "description": "The official studio of Eliran Bar-On, a contemporary Israeli artist exploring emotional and political depth through oil painting.",
+  "sameAs": [
+    "https://www.instagram.com/eliranbaron_art",
+    "https://www.pinterest.com/eliranbaron",
+    "https://www.linkedin.com/in/eliranbaron"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Eliran Bar-On"
+  }
+}

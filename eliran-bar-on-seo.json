@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Eliran Bar-On",
+  "url": "https://ebartocp.com",
+  "sameAs": [
+    "https://www.instagram.com/eliranbaron_art",
+    "https://www.pinterest.com/eliranbaron",
+    "https://www.linkedin.com/in/eliranbaron"
+  ],
+  "jobTitle": "Contemporary Israeli Artist",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "EB Art Studio"
+  },
+  "description": "Eliran Bar-On is a contemporary Israeli artist painting powerful, emotional oil on canvas portraits with poetic depth and political subtext.",
+  "knowsAbout": [
+    "oil painting",
+    "Israeli art",
+    "art with emotional narrative",
+    "contemporary art",
+    "political art",
+    "art as memory"
+  ]
+}

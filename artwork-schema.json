@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "VisualArtwork",
+  "name": "Painted Quiet",
+  "creator": {
+    "@type": "Person",
+    "name": "Eliran Bar-On"
+  },
+  "artform": "Oil painting",
+  "artMedium": "Oil on canvas",
+  "image": "https://ebartocp.com/images/painted-quiet.jpg",
+  "description": "A poetic representation of silence as emotional space, created in oil on canvas.",
+  "url": "https://ebartocp.com/paintedquiet.html",
+  "keywords": [
+    "poetic art",
+    "emotional painting",
+    "contemporary Israeli art"
+  ]
+}
